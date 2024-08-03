@@ -1,0 +1,32 @@
+/* styles.css */
+body {
+    background-image: url('360_F_223605406_nGKtPp42ZRx4ZxvrcVeT3Ek6V5Uw4ETh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+h1, h4 {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #000;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+pre {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    white-space: pre-wrap;
+}
+
+hr {
+    border: none;
+    height: 5px;
+    background-color: black;
+}
